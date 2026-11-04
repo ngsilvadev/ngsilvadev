@@ -1,10 +1,16 @@
-![NGSilva](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090914,40:321344,75:702D75,100:160D25&text=NGSilva&fontColor=FFB5E8&fontSize=65&fontAlignY=42&desc=Nature%20%7C%20Technology%20%7C%20Innovation&descAlignY=62&descSize=17&descColor=E8B9DC)
+<p align="center">
+  <img
+    src="./banner.png"
+    width="100%"
+    alt="NGSilva - Nature, Technology and Innovation"
+  />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AGTECH-9D4EDD?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-EA70C8?style=for-the-badge&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATA_SCIENCE-703D9B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-BA68C8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AGTECH-BA68C8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-DB70C8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-9D4EDD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-C77DFF?style=flat-square"/>
 </p>
 
 <p align="center">
