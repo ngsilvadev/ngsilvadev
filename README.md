@@ -1,89 +1,125 @@
+![NGSilva](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090914,40:321344,75:702D75,100:160D25&text=NGSilva&fontColor=FFB5E8&fontSize=65&fontAlignY=42&desc=Nature%20%7C%20Technology%20%7C%20Innovation&descAlignY=62&descSize=17&descColor=E8B9DC)
 
 <p align="center">
-  <code>![NGSilva][(https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=NGSilva&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=NGSilva&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=6](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=NGSilva&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=60)
-](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=NGSilva&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=60)</code>
+  <img src="https://img.shields.io/badge/AGTECH-9D4EDD?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-EA70C8?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-703D9B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-BA68C8?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-174D35?style=flat-square&labelColor=08120D"/>
-  <img src="https://img.shields.io/badge/DOMAIN-AGROTECH-174D35?style=flat-square&labelColor=08120D"/>
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-174D35?style=flat-square&labelColor=08120D"/>
+  <i>Exploring the intersection of nature and computation.</i>
 </p>
 
 ---
 
-## // SYSTEM OVERVIEW
+## 🌸 About this space
 
-Exploring the intersection of biological systems, computational intelligence and agricultural innovation.
+**EN**
 
-A research-oriented environment dedicated to developing technological solutions for complex biological and agricultural challenges.
+A space dedicated to exploring ideas, developing software and building technological solutions.
 
-**The objective:** transform biological observations into computational models, intelligent systems and practical technologies.
+Focused on the intersection of:
 
-## // RESEARCH MODULES
+- Artificial Intelligence & Computer Vision
+- Agricultural Technology & Smart Monitoring
+- Data Science & Statistical Modeling
+- Biological Systems & Entomology
+- Scientific Computing & Digital Agriculture
 
-| MODULE | DESCRIPTION |
-|---|---|
-| `01 / COMPUTER VISION` | Biological image analysis, insect recognition and object tracking |
-| `02 / AGROTECH SYSTEMS` | Intelligent monitoring, sensors and automated data acquisition |
-| `03 / DATA SCIENCE` | Statistical modeling, data processing and scientific analytics |
-| `04 / DIGITAL AGRICULTURE` | Crop simulation, environmental modeling and digital twins |
-| `05 / BIOLOGICAL SYSTEMS` | Entomology, pest dynamics and integrated pest management |
+**PT**
 
-## // ACTIVE PROJECTS
+Um espaço dedicado à exploração de ideias, desenvolvimento de softwares e criação de soluções tecnológicas.
 
-### [01] ENTOMOTRACK AI
-`COMPUTER VISION` `BIOLOGICAL TRACKING`
+Com foco na integração entre inteligência artificial, ciência de dados, sistemas biológicos e inovação agrícola.
+
+---
+
+## 🧬 Featured Projects
+
+### 01. EntomoTrack AI
+`COMPUTER VISION` `PYTHON` `AI`
 
 Intelligent insect identification and movement tracking through digital microscopy and computer vision.
 
-### [02] MIPIA
-`EDGE AI` `IOT` `SMART MONITORING`
+Identificação de insetos e rastreamento de movimentos utilizando microscopia digital e visão computacional.
 
-Automated monitoring architecture for agricultural pests using electronic traps, image acquisition and artificial intelligence.
+### 02. MIPIA — Smart Pest Monitoring
+`ESP32-CAM` `IOT` `ARTIFICIAL INTELLIGENCE`
 
-### [03] CEAGESP ANALYTICS
-`DATA SCIENCE` `AGRICULTURAL INTELLIGENCE`
+An intelligent monitoring system for the cotton boll weevil (*Anthonomus grandis*), combining electronic traps, image acquisition and AI.
 
-Data-driven tools for agricultural market analysis, price visualization and meteorological information.
+Sistema inteligente de monitoramento do bicudo-do-algodoeiro utilizando armadilhas eletrônicas, captura de imagens e inteligência artificial.
 
-[ACCESS SYSTEM](https://nicol-le.github.io/Ceagesp/)
+### 03. CEAGESP Analytics
+`JAVASCRIPT` `SUPABASE` `DATA SCIENCE`
 
-### [04] AGRICULTURAL DIGITAL TWIN
-`SCIENTIFIC COMPUTING` `CROP MODELING`
+Agricultural market intelligence through statistical analysis, price monitoring and meteorological data.
 
-A computational framework for exploring agricultural scenarios, environmental conditions and alternative crop management strategies.
+Ferramentas de análise de preços agrícolas, indicadores estatísticos e informações meteorológicas.
 
-### [05] COTTON PEST DYNAMICS
-`STATISTICAL ANALYSIS` `ENTOMOLOGY`
+🔗 [Explore the platform](https://nicol-le.github.io/Ceagesp/)
+
+### 04. Agricultural Digital Twin
+`PYTHON` `APSIM` `DSSAT` `SIMULATION`
+
+A computational framework for exploring crop development, environmental conditions and sustainable agricultural management scenarios.
+
+Estrutura computacional para explorar o desenvolvimento das culturas, condições ambientais e cenários de manejo agrícola sustentável.
+
+### 05. Cotton Pest Dynamics
+`R` `STATISTICS` `ENTOMOLOGY`
 
 Scientific analysis of population dynamics, infestation development and meteorological associations involving *Anthonomus grandis*.
 
-## // TECHNOLOGY STACK
+Análise científica da dinâmica populacional, desenvolvimento da infestação e associações meteorológicas envolvendo o bicudo-do-algodoeiro.
+
+---
+
+## 🖥️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,javascript,html,css,git,github,supabase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,r,javascript,html,css,git,github,supabase&theme=dark" />
 </p>
-
-**Additional domains**
-
-`QGIS` · `Computer Vision` · `Machine Learning` · `Statistical Modeling` · `Agricultural Simulation` · `IoT`
-
-## // RESEARCH PRINCIPLES
-
-- Scientific reproducibility
-- Open-source development
-- Evidence-based innovation
-- Computational efficiency
-- Integration of biological and technological knowledge
-
 
 <p align="center">
-  <code>THE SYSTEM IS ALWAYS EVOLVING.</code>
+  <img src="https://img.shields.io/badge/Computer_Vision-9D4EDD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-EA70C8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistics-703D9B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agricultural_Modeling-9D4EDD?style=flat-square"/>
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ngsilvadev&show_icons=true&theme=radical&bg_color=090914&title_color=EA70C8&icon_color=BA68C8&text_color=E8D9EF&border_color=703D9B&hide_border=false" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngsilvadev&layout=compact&theme=radical&bg_color=090914&title_color=EA70C8&text_color=E8D9EF&border_color=703D9B" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ngsilvadev&bg_color=090914&color=EA70C8&line=BA68C8&point=FFB5E8&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌙 Previous Archive
+
+Some earlier experiments and developments:
+
+[![Previous GitHub](https://img.shields.io/badge/Explore_Archive-nicol--le-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicol-le)
+
+---
 
 <p align="center">
   <i>Nature has its own algorithms. We are learning to understand them.</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:07110D,50:102D20,100:050C09&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:160D25,50:702D75,100:090914&height=110&section=footer" />
+</p>
