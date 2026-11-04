@@ -1,4 +1,4 @@
-![VERDANT LAB](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=VERDANT_LAB&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=60)
+![NGSilva](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=VERDANT_LAB&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050C09,45:102D20,100:07110D&text=NGSilva&fontColor=70E6A0&fontSize=54&fontAlignY=40&desc=Biology%20is%20code.%20Nature%20is%20data.&descSize=16&descColor=B0C9B8&descAlignY=60)
 
 <p align="center">
   <code>NGSilva</code>
